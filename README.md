@@ -6,3 +6,6 @@
  test user login by ssh
 
  firstly, download code by ssh 
+
+ add by zhj --20200817
+ 
